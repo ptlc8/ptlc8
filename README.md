@@ -2,7 +2,7 @@
 - 👀 Je fais du Java (lwjgl, serveur wss, bots discord), et du Javascript à profusion (web, server, webgl, ws... ✨) sinon du PHP, du C...
 - 🌱 Actuellement je travaille sur plein de projet plus ou moins réunis sur <https://ambi.dev>, mes projets ici sont sûrement en privé
 - 💞️ Je recherche des collaborations pour des projets sympas, un minimum **ambi**tieux et originaux
-- 📫 Comment me contacter ? ptlcptlcptlc@gmail.com (ou https://discord.gg/na5amdSGzh)
+- 📫 Comment me contacter ? ptlcptlcptlc@gmail.com
 
 ---
 
