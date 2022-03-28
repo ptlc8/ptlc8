@@ -1,5 +1,5 @@
 - 👋 Coucou, moi c'est @ptlc8 alias Ambi
-- 👀 Je fais du Java (lwjgl, serveur wss, bots discord), et du Javascript à profusion (web, server, webgl, ws... ✨) sinon du PHP, du C...
+- 👀 Je fais du Java (Android, lwjgl, serveur wss, bots discord), et du Javascript à profusion (web, server, canvas, webgl, ws... ✨) sinon du PHP, du C...
 - 🌱 Actuellement je travaille sur plein de projet plus ou moins réunis sur <https://ambi.dev>, mes projets ici sont sûrement en privé
 - 💞️ Je recherche des collaborations pour des projets sympas, un minimum **ambi**tieux et originaux
 - 📫 Comment me contacter ? ptlcptlcptlc@gmail.com
