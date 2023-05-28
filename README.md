@@ -24,20 +24,21 @@
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![NuxtJS](https://img.shields.io/badge/-NuxtJS-05122A?style=flat&logo=nuxtdotjs)&nbsp;
+![VueJS](https://img.shields.io/badge/-VueJS-05122A?style=flat&logo=vuedotjs)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-![Ruby](https://IMG.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![Ruby](https://IMG.shields.io/badge/-Ruby-05122A?style=flat&logo=ruby&logoColor=CC342D)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=mysql)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![Bash](https://img.shields.io/badge/-Bash-05122A?style=flat&logo=gnu-bash)&nbsp;
-![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex)&nbsp;
+![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML5-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS3-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![GIMP](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=gimp)&nbsp;
+![GIMP](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=gimp&logoColor=6C6451)&nbsp;
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache&logoColor=D22128)&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse&logoColor=2C0B6E)&nbsp;
 
 ![ambi.dev est down, j'ai dû changé d'url](https://ambi.dev/ig/random.png "Une image random")
 
