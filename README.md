@@ -1,15 +1,17 @@
 - 👋 Coucou, moi c'est @ptlc8 alias Ambi
-- 👀 Je fais du Java (Android, lwjgl, serveur wss, bots discord), et du Javascript à profusion (web, server, canvas, webgl, ws... ✨) sinon du PHP, du C...
-- 🌱 Actuellement je travaille sur plein de projet plus ou moins réunis sur <https://ambi.dev>, mes projets ici sont sûrement en privé
-- 💞️ Je recherche des collaborations pour des projets sympas, un minimum **ambi**tieux et originaux
+- 👀 Je fais du Java (Android, lwjgl, serveur wss), et du Javascript à profusion (web, frameworks, servers, webgl, ws... ✨) sinon du PHP, du C, du Ruby...
+- 🚀 Pratiquant également le DevOps avec des outils tels que Jenkins
+- 🌱 Actuellement je travaille sur des projets variés plus ou moins réunis sur [ambi.dev](https://ambi.dev)
+- 💞️ Je recherche des projets sympas, **ambi**tieux et originaux
 - 📫 Comment me contacter ? ptlcptlcptlc@gmail.com
 
 ---
 
 - 👋 Hi, I’m @ptlc8 aka Ambi
-- 👀 I’m interested in Java (lwjgl, wss server, discord bots), Javascript (web, server, webgl, wss... ✨) otherwise PHP, C... 
-- 🌱 I’m currently working on many projects on <https://ambi.dev>, here there are certainly in private
-- 💞️ I’m looking to collaborate on gud projects, a minimum **ambi**tious and original
+- 👀 I’m interested in Java (Android, lwjgl, wss server), Javascript (web, frameworks, servers, webgl, wss... ✨) otherwise PHP, C, Ruby...
+- 🚀 I'm also involved in DevOps using tools like Jenkins 
+- 🌱 I’m currently working on various projects gathered on [ambi.dev](https://ambi.dev)
+- 💞️ I’m looking for good projects, **ambi**tious and original
 - 📫 How to reach me ? ptlcptlcptlc@gmail.com
 
 ---
@@ -20,6 +22,7 @@
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![NodeJS](https://img.shields.io/badge/-NodeJS-05122A?style=flat&logo=nodedotjs)&nbsp;
+![Jenkins](https://img.shields.io/badge/-Jenkins-05122A?style=flat&logo=jenkins&logoColor=d24939)&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=openjdk)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
@@ -39,6 +42,10 @@
 ![GIMP](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=gimp&logoColor=6C6451)&nbsp;
 ![Apache](https://img.shields.io/badge/-Apache-05122A?style=flat&logo=apache&logoColor=D22128)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse&logoColor=2C0B6E)&nbsp;
+
+---
+
+Et voici une image aléatoire :
 
 ![ambi.dev est down, j'ai dû changé d'url](https://ambi.dev/ig/random.png "Une image random")
 
