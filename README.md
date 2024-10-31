@@ -16,9 +16,13 @@
 
 ---
 
-<!---
-![](https://github-readme-stats.vercel.app/api?username=ptlc8&show_icons=true&theme=radical&locale=fr)
---->
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ptlc8&no-bg=true&rank=-?,-C&row=2&column=4" alt="Trophées" />
+  </a>
+</p>
+
+---
 
 DevOps :
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
