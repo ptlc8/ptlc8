@@ -60,6 +60,11 @@ OS :
 ![GNU/Linux](https://img.shields.io/badge/-GNU%2FLinux-05122A?style=flat&logo=linux)&nbsp;
 ![Debian](https://img.shields.io/badge/-Debian-05122A?style=flat&logo=debian&logoColor=a81d33)&nbsp;
 
+Bases de données :
+![MariaDB/MySQL](https://img.shields.io/badge/-MariaDB%20%2F%20MySQL-05122A?style=flat&logo=mariadb&logoColor=003545)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql&logoColor=4169E1)&nbsp;
+![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat&logo=elasticsearch&logoColor=005571)&nbsp;
+
 Outils :
 ![VSCode](https://img.shields.io/badge/-VSCode-05122A?style=flat&logo=vscodium)&nbsp;
 ![GIMP](https://img.shields.io/badge/-GIMP-05122A?style=flat&logo=gimp&logoColor=6C6451)&nbsp;
@@ -68,7 +73,6 @@ Outils :
 Logiciels :
 ![Apache HTTPd](https://img.shields.io/badge/-Apache%20HTTPd-05122A?style=flat&logo=apache&logoColor=D22128)&nbsp;
 ![NGINX](https://img.shields.io/badge/-NGINX-05122A?style=flat&logo=nginx&logoColor=009639)&nbsp;
-![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-05122A?style=flat&logo=elasticsearch&logoColor=005571)&nbsp;
 
 Autres :
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio)&nbsp;
